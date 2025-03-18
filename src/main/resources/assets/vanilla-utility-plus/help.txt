@@ -1,0 +1,5 @@
+overworld - use in the nether to get the overworld equivalent coordinates
+nether - use in the overworld to get the nether equivalent coordinates
+end - try it out :)
+time - get the current local time
+nyan <message> - nyan'ifies the message
